@@ -1,5 +1,5 @@
 {
-    "name": "Yukki Chat Bot",
+    "name": "Chat Bot",
     "description": "A simple Chat-Bot written in Pyrogram using MongoDB",
     "logo": "https://telegra.ph/file/78bc88b883b22024002cd.jpg",
     "keywords": [
